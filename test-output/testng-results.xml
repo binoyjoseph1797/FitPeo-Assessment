@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-27T22:35:57 IST" name="Suite" finished-at="2024-11-27T22:37:39 IST" duration-ms="101682">
+    <groups>
+    </groups>
+    <test started-at="2024-11-27T22:35:57 IST" name="Test" finished-at="2024-11-27T22:37:39 IST" duration-ms="101682">
+      <class name="runner.HomeRun">
+        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:runner.HomeRun@61c4eee0]" started-at="2024-11-27T22:35:57 IST" name="pageSetUp" finished-at="2024-11-27T22:36:47 IST" duration-ms="49557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageSetUp -->
+        <test-method signature="getPageTitle()[pri:1, instance:runner.HomeRun@61c4eee0]" started-at="2024-11-27T22:36:47 IST" name="getPageTitle" finished-at="2024-11-27T22:36:47 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPageTitle -->
+        <test-method signature="getPageUrl()[pri:2, instance:runner.HomeRun@61c4eee0]" started-at="2024-11-27T22:36:47 IST" name="getPageUrl" finished-at="2024-11-27T22:36:47 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPageUrl -->
+        <test-method signature="verifyRevenueCalculatorOption()[pri:3, instance:runner.HomeRun@61c4eee0]" started-at="2024-11-27T22:36:47 IST" name="verifyRevenueCalculatorOption" finished-at="2024-11-27T22:36:48 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRevenueCalculatorOption -->
+        <test-method signature="verifyscrollingToSliderSection()[pri:4, instance:runner.HomeRun@61c4eee0]" started-at="2024-11-27T22:36:48 IST" name="verifyscrollingToSliderSection" finished-at="2024-11-27T22:36:51 IST" duration-ms="3013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyscrollingToSliderSection -->
+        <test-method signature="verifyEnterValueOnTextBox()[pri:5, instance:runner.HomeRun@61c4eee0]" started-at="2024-11-27T22:36:51 IST" name="verifyEnterValueOnTextBox" finished-at="2024-11-27T22:36:54 IST" duration-ms="3581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEnterValueOnTextBox -->
+        <test-method signature="verifySliderMoveToTargetPosition()[pri:6, instance:runner.HomeRun@61c4eee0]" started-at="2024-11-27T22:36:54 IST" name="verifySliderMoveToTargetPosition" finished-at="2024-11-27T22:37:37 IST" duration-ms="43069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySliderMoveToTargetPosition -->
+        <test-method signature="verifyCheckBoxOptions()[pri:7, instance:runner.HomeRun@61c4eee0]" started-at="2024-11-27T22:37:37 IST" name="verifyCheckBoxOptions" finished-at="2024-11-27T22:37:39 IST" duration-ms="1326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckBoxOptions -->
+        <test-method signature="verifyTotalRecurringReimbursement()[pri:8, instance:runner.HomeRun@61c4eee0]" started-at="2024-11-27T22:37:39 IST" name="verifyTotalRecurringReimbursement" finished-at="2024-11-27T22:37:39 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTotalRecurringReimbursement -->
+      </class> <!-- runner.HomeRun -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
